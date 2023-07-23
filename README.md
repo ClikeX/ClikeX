@@ -19,14 +19,19 @@
   
 
 ### Hey there, I'm Wouter! 👋
+<span><img height="24" width="24" src="https://cdn.simpleicons.org/ruby" /></span>
+<span><img height="24" width="24" src="https://cdn.simpleicons.org/python" /></span>
+<span><img height="24" width="24" src="https://cdn.simpleicons.org/typescript" /></span>
+<span><img height="24" width="24" src="https://cdn.simpleicons.org/go" /></span>
+<span><img height="24" width="24" src="https://cdn.simpleicons.org/elixir" /></span>
 
-Welcome to my profile, who am I?
 
-* Backend Developer
 * Dutch 🇳🇱
-* * Ruby<img height="12" width="12" src="https://cdn.simpleicons.org/ruby" /> and Node<img height="12" width="12" src="https://cdn.simpleicons.org/javascript" /> Professionally
-* * Learning Elixir<img height="12" width="12" src="https://cdn.simpleicons.org/elixir" /> and Rust🦀 in my downtime
+* Backend Developer
+* * Interested in Crystal<img height="12" width="12" src="https://cdn.simpleicons.org/crystal" /> and Rust🦀
 * DevOps Evangelist
 * Father of a special needs daughter 👼🏻
+* Amateur Photographer
+* Hobby Music Producer
 
-Currently not looking for any side projects. 
+Currently not looking for any side projects
