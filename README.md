@@ -12,14 +12,19 @@
 <span><img height="24" width="24" src="https://cdn.simpleicons.org/ruby" /></span>
 <span><img height="24" width="24" src="https://cdn.simpleicons.org/typescript" /></span>
 <span><img height="24" width="24" src="https://cdn.simpleicons.org/go" /></span>
-<span><img height="24" width="24" src="https://cdn.simpleicons.org/elixir" /></span>
+<span><img height="24" width="24" src="https://cdn.simpleicons.org/dotnet" /></span>
+<span><img height="24" width="24" src="https://cdn.simpleicons.org/linux" /></span>
+<span><img height="24" width="24" src="https://cdn.simpleicons.org/steam" /></span>
 
 * Dutch 🇳🇱
 * Backend Developer
-* * Interested in Crystal<img height="12" width="12" src="https://cdn.simpleicons.org/crystal" /> and Rust🦀
+* * Interested in Go<img height="12" width="12" src="https://cdn.simpleicons.org/go" /> Rust🦀, Crystal<img height="12" width="12" src="https://cdn.simpleicons.org/crystal" />
 * DevOps Evangelist
-* Amateur Photographer
-* Hobby Music Producer
-* Father of a special needs daughter 👼🏻
+* Hobby Photographer & Music Producer
+* Crowdfunding to fund a drug repurposing research for my daughter's metabolic disease
+  * https://www.gofundme.com/f/help-ons-medicijnen-te-vinden-voor-maeve
 
 Currently not looking for any side projects
+
+Recruiters: [jobs@woutervandermeulen.nl](mailto:jobs@woutervandermeulen.nl)
+
