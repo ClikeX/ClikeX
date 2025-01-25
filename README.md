@@ -17,9 +17,8 @@
 <span><img height="24" width="24" src="https://cdn.simpleicons.org/steam" /></span>
 
 * Dutch 🇳🇱
-* Backend Developer
+* Backend Developer & DevOps Engineer
 * * Interested in Go<img height="12" width="12" src="https://cdn.simpleicons.org/go" /> Rust🦀, Crystal<img height="12" width="12" src="https://cdn.simpleicons.org/crystal" />
-* DevOps Evangelist
 * Hobby Photographer & Music Producer
 * Crowdfunding to fund a drug repurposing research for my daughter's metabolic disease
   * https://www.gofundme.com/f/help-ons-medicijnen-te-vinden-voor-maeve
